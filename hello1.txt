@@ -15,9 +15,6 @@ these are the changes that i made after making changes using the GUI
 
 i am once again making changes in the local mode
 
-<<<<<<< HEAD
 updating this file
 
-=======
 i also updated this file
->>>>>>> i also updated this file
