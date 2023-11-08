@@ -5,3 +5,4 @@ made some changes to the second file
 =======
 these are the changes that i made after making changes using the GUI
 >>>>>>> Updated hello1.txt
+ i am once again making changes in the GUI mode
