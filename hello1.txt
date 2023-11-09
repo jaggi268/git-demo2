@@ -23,3 +23,5 @@ i also updated this file
 
 
 This is updation after the branch change
+
+pull --rebase operation local mode
